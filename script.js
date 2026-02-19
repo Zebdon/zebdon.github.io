@@ -35,7 +35,7 @@ waitlistForm.addEventListener('submit', async function(e) {
     // Opción 1: Usar Formspree (GRATIS - Recomendado)
     // Reemplaza 'YOUR_FORM_ID' con tu ID de Formspree
     try {
-        const response = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
+        const response = await fetch('https://formspree.io/f/xbdaagpl', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
