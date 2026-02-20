@@ -742,3 +742,11 @@ body {
     .problems-grid { grid-template-columns: 1fr; }
     .faq-grid { grid-template-columns: 1fr; }
 }
+.hero-image {
+    max-width: 420px;
+    width: 100%;
+    margin: 30px auto;
+    display: block;
+    border-radius: 16px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
