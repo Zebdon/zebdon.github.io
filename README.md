@@ -1,26 +1,23 @@
-# 🥗 Nutrifit
+# 🌐 Portfolio — Cyntia Zebaze Dondjio
 
-Landing page de una app de nutrición personalizada con IA.
+Mi portfolio personal como frontend developer en formación.
 
-## 🔗 Demo en vivo
-[Ver proyecto](https://zebdon.github.io/Nutrifit)
+## 🔗 Ver en vivo
+[zebdon.github.io](https://zebdon.github.io)
 
-## 📋 Descripción
-Nutrifit es una landing page completa para una app de nutrición inteligente. Incluye planes de alimentación personalizados para pérdida de peso, nutrición deportiva, alimentación saludable y dietas especiales.
+## 👩‍💻 Sobre mí
+Frontend developer aprendiendo HTML, CSS, JavaScript, DOM, APIs, JSON y XML.
+Próximamente: Angular, Python, SQL y backend.
+
+## 🗂️ Proyectos incluidos
+| Proyecto | Descripción | Demo |
+|----------|-------------|------|
+| MetaboFit | Landing page de app de salud metabólica con IA | [Ver](https://zebdon.github.io) |
+| Nutrifit | Landing page de app de nutrición con IA | [Ver](https://zebdon.github.io/Nutrifit) |
+| Proyecto API | App con API real — próximamente | 🚧 |
 
 ## 🛠️ Tecnologías
-- HTML5
-- CSS3 (animaciones, responsive design, CSS Variables)
-- JavaScript (Intersection Observer, formulario interactivo)
-- Google Fonts (Playfair Display + DM Sans)
+HTML5 · CSS3 · JavaScript ES6+ · Git · GitHub Pages
 
-## 📱 Secciones
-- Hero con mockup de app animado
-- Características principales
-- Públicos objetivo
-- Planes de precios
-- Testimonios
-- Lista de espera
-
-## 👩‍💻 Autora
-**Cyntia Zebaze Dondjio** — [@Zebdon](https://github.com/Zebdon)
+## 📬 Contacto
+GitHub: [@Zebdon](https://github.com/Zebdon)
