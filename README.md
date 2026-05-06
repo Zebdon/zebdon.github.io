@@ -12,7 +12,7 @@ Próximamente: Angular, Python, SQL y backend.
 ## 🗂️ Proyectos incluidos
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
-| MetaboFit | Landing page de app de salud metabólica con IA | [Ver](https://zebdon.github.io) |
+| Portfolio| Landing page de app personal de mis proyectos | [Ver](https://zebdon.github.io) |
 | Nutrifit | Landing page de app de nutrición con IA | [Ver](https://zebdon.github.io/Nutrifit) |
 | Proyecto API | App con API real — próximamente | 🚧 |
 
